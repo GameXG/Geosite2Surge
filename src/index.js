@@ -5,7 +5,7 @@ import os from "node:os";
 import path from "node:path";
 import { pathToFileURL } from "node:url";
 
-const DEFAULT_REPO = "Luan-X/Geosite2Surge";
+const DEFAULT_REPO = "GameXG/Geosite2Surge";
 const DEFAULT_BRANCH = "main";
 const DEFAULT_UPSTREAM = "https://github.com/v2fly/domain-list-community";
 const VALID_LIST_NAME = /^[a-z0-9!_-]+$/i;
