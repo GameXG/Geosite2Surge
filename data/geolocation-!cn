@@ -30322,6 +30322,9 @@ DOMAIN-SUFFIX,kion.ru
 ## ON Media (MTS Media)
 DOMAIN-SUFFIX,mtsmedia.ru
 DOMAIN-SUFFIX,on-media.ru
+
+# MTS-link, a video-conference application
+DOMAIN-SUFFIX,mts-link.ru
 #end include:mts-ru
 #include:musixmatch
 DOMAIN-SUFFIX,musixmatch.com
